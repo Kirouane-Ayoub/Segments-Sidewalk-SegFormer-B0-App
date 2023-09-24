@@ -59,4 +59,6 @@ python app.py
 
 ![Screenshot at 2023-09-24 17-54-34](https://github.com/Kirouane-Ayoub/Segments-Sidewalk-SegFormer-B0-App/assets/99510125/8514158f-7fd2-45ae-b78f-a3d02368e49e)
 
+### Deployment :
 - **By Kirouane Ayoub**
+
