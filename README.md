@@ -54,4 +54,9 @@ When using and deploying the **Segments-Sidewalk-SegFormer-B0** model, consider 
 pip install -r requirements.txt
 python app.py 
 ```
+- Check the Demo here: **https://huggingface.co/spaces/ayoubkirouane/Segments-Sidewalk-SegFormer-B0**
+
+
 ![Screenshot at 2023-09-24 17-54-34](https://github.com/Kirouane-Ayoub/Segments-Sidewalk-SegFormer-B0-App/assets/99510125/8514158f-7fd2-45ae-b78f-a3d02368e49e)
+
+- **By Kirouane Ayoub**
